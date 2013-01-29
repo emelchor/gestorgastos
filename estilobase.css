@@ -1,0 +1,86 @@
+html,head,body { 
+  background-image: url(Fondo.jpg);
+  background-repeat:no-repeat; 
+  background-attachment:fixed; 
+  background-position:center; 
+  font-family: Arial;
+  margin: 0px 0px 0px;
+  padding: 0px 0px 0px;
+}
+
+h1 { 
+  background-color: #FFFFFF; 
+  color: white; 
+  text-transform: uppercase; 
+  margin: 0px; 
+  padding: 5px;
+}
+
+div#menu { 
+  background-color: #8DCF5E; 
+  color: white; 
+  margin: 0px; 
+}
+
+div#menu ul { 
+  list-style-type: none; 
+  margin: 0px 5px; 
+  padding: 5px; 
+}
+
+div#menu li { 
+  display: inline; 
+  padding: 0px 5px;
+}
+
+div#menu a { 
+  background-color: #F2BA5F; 
+  color: white; 
+  font-weight: bold; 
+}
+
+div#contenido { 
+  padding: 10px; 
+}
+
+img { 
+  border: none; 
+}
+
+tr.neg { 
+  background-color: #FFFF99; 
+  color: black; 
+}
+
+tr.tot { 
+  background-color: #C8FF91; 
+  color: black; 
+}
+
+td, th { 
+  padding-left: 5px; 
+  padding-right: 5px; 
+}
+
+div#pie {
+  border-top: green solid 4px;
+  text-align: center;
+  bottom: 0px;
+  clear: both;
+  margin: 20px 20px 0px;
+  padding: 5px 0px 0px;
+}
+
+div#arriba {
+  border-top: green solid 4px;
+  text-align: center;
+  bottom: 0px;
+  clear: both;
+  margin: 0px 20px 0px;
+  padding: 0px 0px 0px;
+}
+
+input {
+    font-family: monospace;
+}
+

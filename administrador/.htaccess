@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Acceso restringido"
+AuthUserFile /GESTORDEGASTOS/administrador/.htpasswd
+Require valid-user
